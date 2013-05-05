@@ -1,0 +1,10 @@
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\FileTransform.exe.config
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\FileTransform.exe
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\FileTransform.pdb
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\AutoMapper.dll
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\FileHelpers.dll
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\AutoMapper.xml
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\bin\Debug\FileHelpers.xml
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\obj\Debug\FileTransform.exe
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\obj\Debug\FileTransform.pdb
+C:\Users\Alan.Chusuei\Workspace\Personal\FileTransform\FileTransform\obj\Debug\FileTransform.csprojResolveAssemblyReference.cache
